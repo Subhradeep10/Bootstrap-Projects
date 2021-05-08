@@ -3,4 +3,11 @@
 }
 #home{
     background-color: rgb(255, 74, 74);
+    height: 500px;
+}
+h1{
+    font-family: 'Ubuntu', sans-serif;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
 }
