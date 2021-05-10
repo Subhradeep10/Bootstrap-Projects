@@ -21,7 +21,10 @@ h1{
     padding: 2% 8%;
     text-align: center;
 }
-#button{
-    width: 120px;
-    height: 70px;
+
+.navbar-brand{
+    font-size: 1.5rem;
+}
+.navbarSupportedContent{
+    font-size: 1.5rem;
 }
