@@ -38,4 +38,13 @@ h1{
 #Experience{
     padding: 3% 15%;
     text-align: center;
+    background-color: rgb(255, 74, 74);
+    color: aliceblue;
+    font-family: 'Ubuntu', sans-serif;
 }
+#expimage{
+    width: 25%;
+    border-radius:100px;
+    padding: 4%;
+}
+
