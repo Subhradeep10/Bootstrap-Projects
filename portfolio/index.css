@@ -41,6 +41,7 @@ h1{
     background-color: rgb(255, 74, 74);
     color: aliceblue;
     font-family: 'Ubuntu', sans-serif;
+    height: 600px;
 }
 #expimage{
     width: 25%;
