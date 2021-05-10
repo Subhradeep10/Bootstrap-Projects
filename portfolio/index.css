@@ -28,3 +28,10 @@ h1{
 #navbarSupportedContent{
     font-size: 1.2rem;
 }
+#skills{
+    padding: 7% 14%;
+}
+#skills-set{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
